@@ -1,5 +1,7 @@
-Healthcare Dashboard
+UK Healthcare Dashboard
+
 Overview
+
 This project involves the creation of a comprehensive healthcare dashboard using the UK Healthcare dataset in Power BI. The dashboard provides insights into various healthcare metrics, enhancing data-driven decision-making within the healthcare sector.
 
 <img width="668" alt="UK Healthcare Dashboard" src="https://github.com/user-attachments/assets/00b03e6a-54ef-4189-b032-8d1da3648b42">
